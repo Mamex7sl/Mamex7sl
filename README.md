@@ -13,7 +13,7 @@ I design and develop full-stack web applications that are:
 I’m passionate about turning ideas into real products and working with clients who value clean, functional design.  
 If you’re looking for someone who can handle both frontend & backend, you’re in the right place.
 
-👉 Check my portfolio here: [mamesportfolio.vercel.app](mamesportfolio.vercel.app)  
+👉 Check my portfolio here: [My Portfolio](https://mohammed-portfolio.com)  
 📧 Email me: mohammedshifa800@gmail.com  
 
 ---
@@ -45,7 +45,7 @@ If you’re looking for someone who can handle both frontend & backend, you’re
 
 | Platform | Link |
 | -------- | ---- |
-| 🌐 Portfolio | [portfolio link](mamesportfolio.vercel.app) |
+| 🌐 Portfolio |[My Portfolio](https://mohammed-portfolio.com)|
 | 📧 Email | mohammedshifa800@gmail.com |
 | 💼 LinkedIn | {https://www.linkedin.com/in/mohammed-shifa-3019ba357/}
 | 🧳 Upwork | [Upwork Profile](https://www.upwork.com/freelancers/~01f7cdeff5503ce72e?nav_dir=pop) |
